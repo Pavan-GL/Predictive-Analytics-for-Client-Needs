@@ -1,0 +1,11 @@
+client_id,text,labels
+1,"The client is looking for advice on tax optimization.",Tax Advisory
+2,"They need assistance with audit compliance.",Audit
+3,"Request for a financial risk assessment report.",Risk Assessment
+4,"The client wants to explore investment opportunities.",Investment Advisory
+5,"They have queries regarding their financial statements.",Financial Reporting
+6,"Looking for help with mergers and acquisitions.",M&A Advisory
+7,"The client seeks guidance on international taxation.",Tax Advisory
+8,"They need a review of their internal controls.",Audit
+9,"Request for a due diligence report on a potential acquisition.",Risk Assessment
+10,"The client is interested in estate planning services.",Financial Planning
